@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
-background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+background-image: url("../imagenes/teamwork1.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -18,7 +18,7 @@ height: 500px;
 margin-top: auto;
 margin-bottom: auto;
 width: 200%;
-background-color: white;
+background-color: rgba(255,255,255,0.8);
 }
 
 .card-header h3{
@@ -26,7 +26,7 @@ color: white;
 }
 
 .tr-header{
-  background-color: #009AFF;
+  background-color: #004FA6;
 }
 
 .th-left-line{
